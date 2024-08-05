@@ -4,7 +4,7 @@ This repository contains writeups for the CTFs I've participated in.
 
 ## 2024
 
-# PicoCTF
+### PicoCTF
 
 **Forensics**
 
