@@ -6,6 +6,6 @@ This repository contains writeups for the CTFs I've participated in.
 
 ### PicoCTF
 
-**Forensics**
+**1. Forensics**
 
 - [Verify](https://github.com/SteffiKeranJ/CTF-Writeups/blob/main/picoCTF/Practice/Forensics/Verify.md)
