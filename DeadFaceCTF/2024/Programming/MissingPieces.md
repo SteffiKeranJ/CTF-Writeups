@@ -2,9 +2,9 @@
 Programming, 10points
 
 ## Description
-We found this code from deephax that looks like it was built to hide a flag using some form of cryptography. The program is missing code that will reveal the flag. Try to fix the program and submit the flag.
-
-Submit the flag as flag{flag_text}.
+> We found this code from deephax that looks like it was built to hide a flag using some form of cryptography. The program is missing code that will reveal the flag. Try to fix the program and submit the flag.
+> 
+> Submit the flag as flag{flag_text}.
 
 Attached was a c file with the following program:
 
